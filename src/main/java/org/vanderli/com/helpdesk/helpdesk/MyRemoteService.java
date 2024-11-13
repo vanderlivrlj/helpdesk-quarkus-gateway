@@ -1,4 +1,4 @@
-package org.vanderli.com.helpdesk;
+package org.vanderli.com.helpdesk.helpdesk;
 
 import org.eclipse.microprofile.rest.client.inject.RegisterRestClient;
 
